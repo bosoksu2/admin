@@ -1,0 +1,2 @@
+# admin
+Tet go get
